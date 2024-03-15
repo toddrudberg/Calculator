@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorInterface", "CalculatorInterface\CalculatorInterface.csproj", "{05D4E233-DC36-4F5F-9052-D0ED004B7A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStringCalc", "ClassStringCalc\ClassStringCalc.csproj", "{0BF12BCF-3FC2-4E26-8955-AA6FA1E6072F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D4E233-DC36-4F5F-9052-D0ED004B7A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D4E233-DC36-4F5F-9052-D0ED004B7A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D4E233-DC36-4F5F-9052-D0ED004B7A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D4E233-DC36-4F5F-9052-D0ED004B7A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF12BCF-3FC2-4E26-8955-AA6FA1E6072F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF12BCF-3FC2-4E26-8955-AA6FA1E6072F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF12BCF-3FC2-4E26-8955-AA6FA1E6072F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF12BCF-3FC2-4E26-8955-AA6FA1E6072F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
