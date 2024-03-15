@@ -22,7 +22,7 @@ namespace Electroimpact
 		System.Collections.Hashtable Constants = new System.Collections.Hashtable();
 		System.Collections.ICollection ConstantKeys;
 		double ConstantLast;
-
+		double dude;
 
 		#region CONSTRUCTORS
 		public csString()
